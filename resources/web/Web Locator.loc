@@ -1,0 +1,9 @@
+
+text.txtusername={"locator":"id=txtUsername","desc":"Input for txtUsername"}
+password.txtpassword={"locator":"id=txtPassword","desc":"txtPassword password"}
+button.btnlogin={"locator":"id=btnLogin","desc":"BUTTON btnLogin"}
+number.enteramountforcredit={"locator":"xpath=//div[2]/input","desc":"Enter amount for credit number"}
+button.button11={"locator":"xpath=//div[2]/span/button","desc":"BUTTON BUTTON11"}
+number.enteramountfordebit={"locator":"xpath=//input","desc":"Enter amount for debit number"}
+button.button1={"locator":"xpath=//span/button","desc":"BUTTON BUTTON1"}
+button.button={"locator":"xpath=//button","desc":"BUTTON BUTTON"}

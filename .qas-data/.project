@@ -1,0 +1,22 @@
+{
+    "additionalFields": {
+        "android": {
+            "appactivity": "com.qmetry.bank.bankingapplication.HomePageActivity",
+            "apppackage": "com.qmetry.bank.bankingapplication"
+        },
+        "web": {
+            "baseurl": "https://qas.qmetry.com/bank"
+        }
+    },
+    "framework": "behave",
+    "language": "python",
+    "projectSettings": {
+        "projectName": "Python",
+        "projectPath": "/Users/saurabhpisal/Documents/QAS"
+    },
+    "projectTypes": [
+        "web",
+        "android"
+    ],
+    "key": "1RTDpw2TXqDHToG602g06UrKOH9+U7j3hWg/ok5jnsHJUF8pD6bnKOVegsC69f9mo5Gu8pDTQj8zSMAbpERKGwxjyu3U8lwnSGQQZ1WAlpU="
+}

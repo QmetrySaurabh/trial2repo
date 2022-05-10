@@ -1,0 +1,11 @@
+
+email={"locator":"accessibility id=email","desc":"email"}
+password={"locator":"accessibility id=password","desc":"password"}
+sign.in={"locator":"accessibility id=signIn","desc":"sign.in"}
+transacations={"locator":"accessibility id=transacations","desc":"transacations"}
+enter.amount={"locator":"accessibility id=enterAmount","desc":"enter.amount"}
+credit={"locator":"accessibility id=credit","desc":"credit"}
+debit={"locator":"accessibility id=debit","desc":"debit"}
+.more.options={"locator":"accessibility id=More options","desc":".more.options"}
+com.qmetry.bank.bankingapplication.id.content={"locator":"id=com.qmetry.bank.bankingapplication:id/content","desc":"com.qmetry.bank.bankingapplication.id.content"}
+android.id.text1={"locator":"id=android:id/text1","desc":"android.id.text1"}
